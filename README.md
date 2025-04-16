@@ -1,31 +1,23 @@
-# 📨 Formulario de Contacto Web
+📰 Sitio Web de Noticias:
+Este proyecto es un sitio de noticias responsivo y visualmente atractivo, creado con HTML y CSS puro. Está diseñado para integrarse fácilmente en cualquier entorno web, ofreciendo un diseño moderno y funcional para presentar información actualizada.
 
-Este proyecto es un formulario de contacto responsivo y estéticamente agradable hecho con **HTML** y **CSS puro**. Está diseñado para integrarse fácilmente en cualquier sitio web y ofrece un diseño moderno y funcional.
+🌐 Vista previa:
+(Aquí puedes colocar una imagen o GIF mostrando el sitio)
 
-## 🌐 Vista previa
+🚀 Características:
 
+•	Diseño responsive y limpio
 
+•	Secciones para titulares, artículos y noticias destacadas
 
-## 🚀 Características
+•	Estructura clara y fácil de personalizar
 
-- Diseño responsive y limpio
-- Campos para nombre, correo y mensaje
-- Botón de envío estilizado
-- Estructura clara y personalizable
-- Compatible con todos los navegadores modernos
+•	Compatible con todos los navegadores modernos
 
-## 🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas:
 
-- HTML5
-- CSS3
+HTML
+CSS
 
-## 📁 Estructura del proyecto
-
-
-> Puedes agregar una carpeta `assets/` si deseas incluir imágenes, íconos o scripts adicionales.
-
-## 🧪 Cómo usar
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/jheremy169/tarea1.git
+📁 Estructura del proyecto:
+Puedes agregar una carpeta assets/ si deseas incluir imágenes, íconos o scripts adicionales para mejorar la apariencia de tus noticias.
