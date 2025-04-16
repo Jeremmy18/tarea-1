@@ -1,30 +1,32 @@
-# 📨 Formulario de Contacto Web
+📰 Sitio Web de Noticias
+Este proyecto es un sitio de noticias responsivo y visualmente atractivo, creado con HTML y CSS puro. Está diseñado para integrarse fácilmente en cualquier entorno web, ofreciendo un diseño moderno y funcional para presentar información actualizada.
 
-Este proyecto es un formulario de contacto responsivo y estéticamente agradable hecho con **HTML** y **CSS puro**. Está diseñado para integrarse fácilmente en cualquier sitio web y ofrece un diseño moderno y funcional.
-
-## 🌐 Vista previa
-
+🌐 Vista previa
 
 
-## 🚀 Características
+
+
+🚀 Características
 
 - Diseño responsive y limpio
-- Campos para nombre, correo y mensaje
-- Botón de envío estilizado
-- Estructura clara y personalizable
+
+- Secciones para titulares, artículos y noticias destacadas
+
+- Estructura clara y fácil de personalizar
+
 - Compatible con todos los navegadores modernos
 
-## 🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
-## 📁 Estructura del proyecto
+📁 Estructura del proyecto
 
 
 > Puedes agregar una carpeta `assets/` si deseas incluir imágenes, íconos o scripts adicionales.
 
-## 🧪 Cómo usar
+🧪 Cómo usar
 
 1. Clona este repositorio:
    ```bash
