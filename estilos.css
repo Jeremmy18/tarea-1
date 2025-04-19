@@ -338,7 +338,7 @@ body {
 
 .value-card:hover .icon-circle {
   background-color: rgba(74, 111, 165, 0.4);
-  transform: rotate(10deg) scale(1.1);
+  transform: rotate(10deg) scale(1.1); 
 }
 
 /* Responsive */

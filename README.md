@@ -2,7 +2,7 @@
 
 Este proyecto es un formulario de contacto responsivo y estéticamente agradable hecho con **HTML** y **CSS puro**. Está diseñado para integrarse fácilmente en cualquier sitio web y ofrece un diseño moderno y funcional.
 
-## 🌐 Vista previa
+## 🌐 Vista previa 
 
 
 
